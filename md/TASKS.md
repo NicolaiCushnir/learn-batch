@@ -1,4 +1,7 @@
 ### [return main page](../README.md) || My Future Tasks :
+
+* Автоматические установить программы которые мне нужны. Допустим у меня новая система. И я не хочу захадить на сайт и вручную установить. А так зделал скрипт и вуаля. Автоматическая установка всех програм.
+
 * А можно сделать так чтобы кажый раз не переместиться в нужный файл использовать что то по быстрей и корочи путь? Например: Я нахожусь в директорий `gitlab/learn-technologies` и хочу сразу попасть в другую директорию, паример `github/learn-batch` А потом вернуться назат в Gitlab.
 
 * În Bash File eu nu pot să scriu `title` așa cum în consolă obișnuită `cmd` și să scriu neme la fereastra din consolă. Și eu aș dori să fac așa ceva ca cînd scriu acest cuvînt în bash, să pot să pot schimba numele la geam. Mă refer la consolă, dacă ceva. :)
