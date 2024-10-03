@@ -1,0 +1,1 @@
+Here is file %number_at_file%. And Here is a simple text with number %count_number% 
