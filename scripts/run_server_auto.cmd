@@ -1,3 +1,4 @@
+rem important!
 rem tutorial_online_run_server_auto through cmder :
 
 @echo off
